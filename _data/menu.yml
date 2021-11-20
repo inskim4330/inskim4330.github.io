@@ -19,6 +19,7 @@ entries:
 
   - title: C#
     post_list:
+      limit: 5
       category: C#
       show_more: true
       show_more_text: See more posts...
@@ -26,6 +27,7 @@ entries:
 
   - title: 생각
     post_list:
+      limit: 5
       category: Think
       show_more: true
       show_more_text: See more posts...
