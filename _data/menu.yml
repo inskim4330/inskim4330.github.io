@@ -23,15 +23,15 @@ entries:
       category: C#
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: cs-archive.html
 
   - title: 생각
     post_list:
       limit: 5
-      category: Think
+      category: think
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: think-archive.html
   
   - title: another list
     entries:
