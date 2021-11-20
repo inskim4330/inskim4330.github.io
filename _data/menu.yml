@@ -6,7 +6,7 @@ entries:
     entries:
       - title: 1996년 3월 7일 생 입니다. 취미는 그림그리기, 음악만들기 입니다. 현재는 취미생활은 하지않고 있습니다...
       - title: Artstation 주소 <a href='https://www.artstation.com/inskim'>요기</a>, Soundcloud 주소는 <a href='https://soundcloud.com/ybqo0zfvcvel'>요기</a>
-      
+    
       - title: 깃허브 주소
         url: https://github.com/inskim4330
       
@@ -28,7 +28,6 @@ entries:
   - title: 생각
     post_list:
       limit: 5
-      category: think
       show_more: true
       show_more_text: See more posts...
       show_more_url: think-archive.html
