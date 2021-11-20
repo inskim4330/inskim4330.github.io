@@ -28,7 +28,7 @@ entries:
   - title: 생각
     post_list:
       limit: 5
-      category: think
+      category: spirit
       show_more: true
       show_more_text: See more posts...
       show_more_url: think-archive.html
