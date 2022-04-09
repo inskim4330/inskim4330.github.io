@@ -32,6 +32,14 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: think-archive.html
+
+  - title: 리눅스
+    post_list:
+      limit: 5
+      category: linux
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: think-archive.html
   
   - title: another list
     entries:
