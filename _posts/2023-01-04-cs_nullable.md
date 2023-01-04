@@ -3,7 +3,7 @@ layout: post
 category: c#
 ---
 
-Description of null, nullable value types, null-coalescing operator and Pattern matching
+Description of null, nullable value types, null-coalescing operator and Pattern matching.
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
