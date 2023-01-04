@@ -15,7 +15,7 @@ The null keyword is a literal that a represents a null reference, one that does 
 
 ## [The start](#the-start)
 
-{% highlight c# %}
+```C#
 class Program
 {
     class MyClass
@@ -28,27 +28,27 @@ class Program
         MyClass mc;
         mc = null;
 	
-	mc = new MyClass();
-	mc.MyMethod();
-	mc = null;
+		mc = new MyClass();
+		mc.MyMethod();
+		mc = null;
 
-	string s = null;
-	string t = String.Empty;
+		string s = null;
+		string t = String.Empty;
 
-	bool b = (t.Equals(s));
-	Console.WriteLine(b);
+		bool b = (t.Equals(s));
+		Console.WriteLine(b);
 
-	Console.WriteLine("Empty string {0} null string", s == t? "equals":"does not equal");
+		Console.WriteLine("Empty string {0} null string", s == t? "equals":"does not equal");
 
-	Console.WriteLine("null == null is {0}", null == null);
+		Console.WriteLine("null == null is {0}", null == null);
 
-	int? i = null;
+		int? i = null;
 
-	System.Console.WriteLine("Press any key to exit.");
-	System.Console.ReadKey();
+		System.Console.WriteLine("Press any key to exit.");
+		System.Console.ReadKey();
     }
 }
-{% endhighlight %}
+```
 Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.
 
 ## [The middle](#the-middle)
